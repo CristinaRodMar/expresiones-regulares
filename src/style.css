@@ -51,7 +51,7 @@ h3 {
   margin-bottom: 30px;
 }
 
-#caja-texto {
+#cajaTexto {
   width: 100%;
   max-width: 480px;
   height: 48px;
@@ -64,7 +64,7 @@ h3 {
   transition: all 0.3s ease;
 }
 
-#caja-texto:focus {
+#cajaTexto:focus {
   outline: none;
   border-color: #4f46e5;
   box-shadow: 0 0 10px rgba(79, 70, 229, 0.3);
