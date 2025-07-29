@@ -1,3 +1,6 @@
 import "./style.css";
+import { iniciarUI } from "./iu";
 
-console.log("Hello Typescript!");
+document.addEventListener("DOMContentLoaded", () => {
+    iniciarUI();
+});
